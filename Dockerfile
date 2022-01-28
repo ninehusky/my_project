@@ -1,0 +1,1 @@
+FROM xd009642/tarpaulin:latest
